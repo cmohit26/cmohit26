@@ -19,6 +19,8 @@ Mail: choudhary.mohit2026@gmail.com
   <a href="https://github.com/cmohit26"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p> 
 
+---
+
 ### Github STATS
 
 <p align="center">
