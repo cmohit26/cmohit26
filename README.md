@@ -8,7 +8,7 @@
 
 ### 🛠️ My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,react)](https://skillicons.dev)
 
 ---
 
