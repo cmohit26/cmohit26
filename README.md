@@ -16,8 +16,6 @@
 Mail: choudhary.mohit2026@gmail.com
 <p align="left">
   <a href="https://www.linkedin.com/in/mohit-choudhary-6b4201356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/cmohit26"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p> 
 
 ---
 
