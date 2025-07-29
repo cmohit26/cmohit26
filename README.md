@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Mohit Choudhary
 
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=cmohit26&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Pramukh5" /> 
+</p>
+
 ### 🧑‍💼 About Me  
 - Pursuing B.Tech in Computer Science (Batch: 2022–2026)  
 - Hands-on with Java backend development using Spring Boot & building RESTful APIs  
