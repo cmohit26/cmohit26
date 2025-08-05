@@ -36,7 +36,7 @@ Mail: choudhary.mohit2026@gmail.com
 FSDC Website (Group Project)
 - 🔗 [View SIte](https://fullstackdevclubb.github.io/)
 - Built a responsive club website using HTML, CSS, and JavaScript.
-- Showcases events, projects, and contact info.
+- Showcases events, projects, and ssssscontact info.
 
 Online Tech Store (Individual Project)
 - Developed full-stack app with Spring Boot backend and Thymeleaf frontend
